@@ -1,6 +1,6 @@
 # Yiannis Dermitzakis
 
-Platform and reliability engineer. I've spent my career building enterprise
+DevOps engineer. I've spent my career building enterprise
 software and delivery pipelines, with testing as my craft. Now I put AI agents
 to work on all of it.
 
